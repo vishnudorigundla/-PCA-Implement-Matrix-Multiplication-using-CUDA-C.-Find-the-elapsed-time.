@@ -2,6 +2,9 @@
 Implement Matrix Multiplication using GPU.
 
 Aim:
+
 Procedure:
+
 Output:
+
 Result:
